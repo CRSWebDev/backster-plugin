@@ -1,0 +1,11 @@
+v1.0.1:
+    - 'Initialize plugin'
+v1.0.2:
+    - 'Created table crscompany_backster_backups'
+    - builder_table_create_crscompany_backster_backups.php
+v1.0.3:
+    - 'Updated table crscompany_backster_backups'
+    - builder_table_update_crscompany_backster_backups.php
+v1.0.4:
+    - 'Updated table crscompany_backster_backups'
+    - builder_table_update_crscompany_backster_backups_2.php

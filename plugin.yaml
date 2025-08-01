@@ -1,0 +1,6 @@
+plugin:
+    name: 'crscompany.backster::lang.plugin.name'
+    description: 'Backups for October!'
+    author: 'CRS COmpany'
+    icon: oc-icon-database
+    homepage: ''
