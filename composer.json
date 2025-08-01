@@ -5,6 +5,6 @@
     "license": "MIT",
     "require": {
         "composer/installers": "~1.0",
-        "october/rain": "~v4.0"
+        "october/rain": "~v3.7"
     }
 }
